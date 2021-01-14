@@ -52,7 +52,7 @@ for (let i = 0; i < pick.length; i++) {
       document.getElementById("versus").removeChild(playerPick);
       document.getElementById("versus").removeChild(message);
       document.getElementById("versus").removeChild(pcPick);
-    }, 1000);
+    }, 2000);
   };
 }
 
